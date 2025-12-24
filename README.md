@@ -1,5 +1,5 @@
 
-Neuromorphic Computing Simulator (Enhanced Demo)
+Neuromorphic Computing Simulator 
 
 Features:
 - Configurable LIF neuron (threshold, decay)
